@@ -1,0 +1,38 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 450,
+    "title": "Number of F1 player",
+    "projection": {"type": "equalEarth"},
+    "layer": [
+      {
+        "data": {
+          "url": "https://github.com/yeanle/DV2.1.1/blob/main/ne_110m_admin_0_countries_1.topojson",
+          "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries_1"}
+        },
+        "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+      },
+      {
+        "data": {
+          "url": "https://github.com/yeanle/DV2.1.1/blob/main/count_of_driver_F1.csv"
+        },
+        "mark": {"type": "circle", "tooltip": {"content": "data"}},
+        "encoding": {
+          "longitude": {"field": "longitude", "type": "quantitative"},
+          "latitude": {"field": "latitude", "type": "quantitative"},
+          "size": {
+            "field": "mag",
+            "type": "quantitative",
+            "title": "Magnitude (Richter scale)",
+            "scale": {"domain": [4, 8]}
+          },
+          "color": {
+            "field": "depth",
+            "type": "quantitative",
+            "title": "Depth in km",
+            "scale": {"scheme": "reds"}
+          }
+        }
+      }
+    ]
+  }
