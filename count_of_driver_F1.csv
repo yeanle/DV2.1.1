@@ -1,44 +1,40 @@
-Row Labels,Count of nationality
-American,158
-American-Italian,1
-Argentine,24
-Argentine-Italian,1
-Australian,18
-Austrian,15
-Belgian,23
-Brazilian,32
-British,165
-Canadian,14
-Chilean,1
-Chinese,1
-Colombian,3
-Czech,1
-Danish,5
-Dutch,18
-East German,3
-Finnish,9
-French,73
-German,50
-Hungarian,1
-Indian,2
-Indonesian,1
-Irish,5
-Italian,99
-Japanese,20
-Liechtensteiner,1
-Malaysian,1
-Mexican,6
-Monegasque,4
-New Zealander,9
-Polish,1
-Portuguese,4
-Rhodesian,4
-Russian,4
-South African,23
-Spanish,15
-Swedish,10
-Swiss,23
-Thai,2
-Uruguayan,4
-Venezuelan,3
-Grand Total,857
+Row Labels,Count of nationality,latitude,longtitude
+United States,158,37.09024,-95.712891
+Argentina,24,-38.416097,-63.616672
+Australia,18,-25.274398,133.775136
+Austria,15,47.516231,14.550072
+Belgium,23,50.503887,4.469936
+Brazil,32,-14.235004,-51.92528
+United Kingdom,165,55.378051,-3.435973
+Canada,14,56.130366,-106.346771
+Chile,1,-35.675147,-71.542969
+China,1,35.86166,104.195397
+Colombia,3,4.570868,-74.297333
+Czech Republic,1,49.817492,15.472962
+Denmark,5,56.26392,9.501785
+Netherlands,18,52.132633,5.291266
+Germany,3,51.165691,10.451526
+Finland,9,61.92411,25.748151
+France,73,46.227638,2.213749
+Germany,50,51.165691,10.451526
+Hungary,1,47.162494,19.503304
+India,2,20.593684,78.96288
+Indonesia,1,-0.789275,113.921327
+Republic of Ireland,5,53.41291,-8.24389
+Italy,99,41.87194,12.56738
+Japan,20,36.204824,138.252924
+Malaysia,1,4.210484,101.975766
+Mexico,6,23.634501,-102.552784
+Monegasque,4,31.791702,-7.09262
+New Zealander,9,-40.900557,174.885971
+Poland,1,51.919438,19.145136
+Portugal,4,39.399872,-8.224454
+Zimbabwe,4,-19.015438,29.154857
+Russia,4,61.52401,105.318756
+South Africa,23,-30.559482,22.937506
+Spain,15,40.463667,-3.74922
+Sweden,10,60.128161,18.643501
+Switzerland,23,46.818188,8.227512
+Thailand,2,15.870032,100.992541
+Uruguay,4,-32.522779,-55.765835
+Venezuela,3,6.42375,-66.58973
