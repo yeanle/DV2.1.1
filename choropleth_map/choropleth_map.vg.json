@@ -15,7 +15,7 @@
           "data": {
             "url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"
           },
-          "key": "Row Labels",
+          "key": "Country",
           "fields": ["Count of nationality"]
         }
       }
