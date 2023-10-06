@@ -20,7 +20,8 @@
       }
     },
     "transform":[
-      {"filter": "datum.Count_of_nationality > 0"}
+      {"filter": "datum.Count_of_nationality > 0"},
+      {"filter": "datum.Number_of_wins >= 0"}
       
       
     ],
@@ -30,16 +31,15 @@
         "field": "Count_of_nationality",
         "type": "quantitative",
         "title":"Number of player",
-        "axis": {"tickCount": 4},
-        "scale": {"type": "log",  "domain":[1,200]}
+        "axis": {"tickCount": 4}
       },
       "y": {
         "field": "Number_of_wins",
         "type": "quantitative",
-        "axis": { "tickCount": 4},
-        "scale": {"type": "log", "domain":[1,30]}
+        "axis": { "tickCount": 4}
       },
-      
+      "size": {"field": "Number_of_teams", "type": "quantitative",  "scale": {"range": [1,60]}
+},
       "fill": {"field": "Continent",  "type": "nominal","scale": {"domain":["North America", "South America", "Europe", "Africa", "Asia", "Oceania"], "range": ["#e41a1c", "#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]}},
       "color": {"field": "Continent", "type": "nominal","scale": {"domain":["North America", "South America", "Europe", "Africa", "Asia", "Oceania"],"range": ["#e41a1c", "#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]}
       },
@@ -51,7 +51,7 @@
         {"field": "Country", "type": "nominal"},
         {"field": "Continent", "type": "nominal", "format": ","},
         {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
-        {"field": "Number_of_wins)", "type": "quantitative", "format": ",", "title": "Number of Wins"}
+        {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"}
         
       ]
   
