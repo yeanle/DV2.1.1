@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Number of F1 Player",
+    "title": "Number of F1 Player in each Country",
     "width": 800,
     "height": 400,
     "projection": {"type": "equalEarth"},
@@ -16,20 +16,21 @@
             "url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"
           },
           "key": "Country",
-          "fields": ["Count of nationality"]
+          "fields": ["Count_of_nationality"]
         }
-      }
+      },
+      {"calculate": "datum.Count_of_nationality + 0.1", "as": "Count_of_nationality"}
     ],
     "mark": {"type": "geoshape"},
     "encoding": {
       "color": {
-        "field": "Count of nationality",
+        "field": "Count_of_nationality",
         "type": "quantitative",
         "scale": {"type": "log"}
       },
       "tooltip": [
         {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-        {"field": "Count of nationality", "type": "quantitative"}
+        {"field": "Count_of_nationality", "type": "quantitative"}
       ]
     }
   }
