@@ -19,7 +19,7 @@
           "fields": ["Count_of_nationality"]
         }
       },
-      {"calculate": "datum.Count_of_nationality + 0.1", "as": "Count_of_nationality"}
+      {"calculate": "datum.Count_of_nationality", "as": "Count_of_nationality"}
     ],
     "mark": {"type": "geoshape"},
     "encoding": {

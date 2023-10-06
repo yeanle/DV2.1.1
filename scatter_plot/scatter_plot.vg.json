@@ -1,0 +1,60 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "height": 500,
+    "width": 500,
+    "title": "F1 Player in each country",
+    "data": {
+      "url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"
+    },
+      "params": [
+      {
+        "name": "Number_of_player",
+  
+        "value": 1,
+        "bind": {"input": "range", "min": 0, "max": 158, "step": 5}
+      }
+    ],
+    "selection": {
+      "continent_selection": {
+        "type": "multi", "fields": ["Continent"], "bind": "legend"
+      }
+    },
+    "transform":[
+      {"filter": "datum.Count_of_nationality > 0"}
+      
+      
+    ],
+    "mark": "point",
+    "encoding": {
+      "x": {
+        "field": "Count_of_nationality",
+        "type": "quantitative",
+        "title":"Number of player",
+        "axis": {"tickCount": 4},
+        "scale": {"type": "log",  "domain":[1,200]}
+      },
+      "y": {
+        "field": "Number_of_wins",
+        "type": "quantitative",
+        "axis": { "tickCount": 4},
+        "scale": {"type": "log", "domain":[1,30]}
+      },
+      
+      "fill": {"field": "Continent",  "type": "nominal","scale": {"domain":["North America", "South America", "Europe", "Africa", "Asia", "Oceania"], "range": ["#e41a1c", "#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]}},
+      "color": {"field": "Continent", "type": "nominal","scale": {"domain":["North America", "South America", "Europe", "Africa", "Asia", "Oceania"],"range": ["#e41a1c", "#984ea3", "#ff7f00", "#a6cee3", "#377eb8", "#a65628"]}
+      },
+      "opacity": {
+        "condition": {"selection": "continent_selection", "value": 0.8},
+        "value": 0.2
+      },
+      "tooltip": [
+        {"field": "Country", "type": "nominal"},
+        {"field": "Continent", "type": "nominal", "format": ","},
+        {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
+        {"field": "Number_of_wins)", "type": "quantitative", "format": ",", "title": "Number of Wins"}
+        
+      ]
+  
+    }
+  }
+  
