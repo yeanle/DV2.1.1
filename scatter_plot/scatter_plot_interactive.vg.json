@@ -50,6 +50,9 @@
       
       {
         "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+      },
+      {
+        "filter": "datum.Count_of_nationality > Number_of_player"
       }
     ],
     "encoding": {
@@ -131,7 +134,6 @@
           },
           "tooltip": [
             {"field": "Country", "type": "nominal"},
-            {"field": "Continent", "type": "nominal", "format": ","},
             {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
             {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"}
           ]

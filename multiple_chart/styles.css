@@ -5,6 +5,11 @@ body *{
   h1 {
     font-weight: 900;
   }
+
+  h3 {
+    text-align: center;
+  }
+ 
   
   body {
     background-color: lightgray;

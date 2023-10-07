@@ -48,6 +48,9 @@
       
       {
         "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+      },
+      {
+        "filter": "datum.Count_of_nationality > Number_of_player"
       }
     ],
     "encoding": {
@@ -73,7 +76,7 @@
             "scale": {
               "type": "threshold",
               "domain": [1,20,50],
-              "range": [200, 600, 1200]
+              "range": [50, 500, 1200]
             },
             "legend": {"format": ".1s"}
           },
@@ -102,9 +105,9 @@
           "opacity": {"value": 0.6},
           "tooltip": [
             {"field": "Country", "type": "nominal"},
-            {"field": "Continent", "type": "nominal", "format": ","},
             {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
-            {"field": "Number_of_wins)", "type": "quantitative", "format": ",", "title": "Number of Wins"}
+            {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"},
+            {"field": "Number_of_teams", "type": "quantitative", "format": ",", "title": "Number of Teams"}
           ]
         }
       },
@@ -129,7 +132,6 @@
           },
           "tooltip": [
             {"field": "Country", "type": "nominal"},
-            {"field": "Continent", "type": "nominal", "format": ","},
             {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
             {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"}
           ]

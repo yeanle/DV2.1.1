@@ -5,8 +5,17 @@
     "title": "F1 Player in each country",
     "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"},
     "mark": {"type": "bar", "binSpacing": 0},
+    "transform": [
+      {"filter": "datum.Count_of_nationality > 0"},
+      {"filter": "datum.Number_of_wins >= 0"}
+    ],
     "encoding": {
-      "x": {"field": "Country", "type": "nominal"},
-      "y": {"field": "Number_of_wins","type": "quantitative"}
-    }
+      "y": {"field": "Country", "type": "nominal"},
+      "x": {"field": "Number_of_wins","type": "quantitative","sort": "ascending"}
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
+      {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"}
+    ]
   }

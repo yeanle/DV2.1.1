@@ -22,6 +22,7 @@
     "transform":[
       {"filter": "datum.Count_of_nationality > 0"},
       {"filter": "datum.Number_of_wins >= 0"}
+     
       
       
     ],
@@ -49,7 +50,6 @@
       },
       "tooltip": [
         {"field": "Country", "type": "nominal"},
-        {"field": "Continent", "type": "nominal", "format": ","},
         {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
         {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"}
         
