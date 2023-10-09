@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-      "url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Constructor_results(combine)1.1.0.csv"
+      "url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Constructor_results(combine)1.1.1.csv"
     },
     "vconcat": [
       {
@@ -17,7 +17,11 @@
             ],
             "window": [{"op": "rank", "as": "rank"}],
             "groupby": ["year"]
-          }
+          },
+        
+          {"filter":"datum.position <= 3"},
+          {"filter":"datum.year >2000"},
+          {"filter": {"field":"name_constructor","oneOf":["Ferrari","McLaren", "Williams", "Brabham", "BRM"]}}
           
         ],
         "mark": {"type": "line", "orient": "vertical"},
@@ -26,7 +30,11 @@
           "y": {"field": "position", "type": "ordinal"},
           "color": {
             "field": "name_constructor",
-            "type": "nominal"
+            "type": "nominal",
+            "scale": {
+                "domain": ["Ferrari", "McLaren", "Williams", "Brabham", "BRM"],
+                "range": ["#C91A3C", "#0C71AB", "#127153", "#333333", "#FFD700"]
+              }
             
           }
         }
@@ -46,12 +54,9 @@
           "x": {"field": "year", "type": "ordinal"},
           "y": {"field": "position", "type": "quantitative"},
           "color": {
-            "field": "surename",
-            "type": "nominal",
-            "scale": {
-              "domain": ["Germany", "Mexico", "South Korea", "Sweden"],
-              "range": ["black", "#127153", "#C91A3C", "#0C71AB"]
-            }
+            "field": "name_constructor",
+            "type": "nominal"
+           
           }
         }
       }
