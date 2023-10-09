@@ -11,11 +11,11 @@
     ],
     "encoding": {
       "y": {"field": "Country", "type": "nominal"},
-      "x": {"field": "Number_of_wins","type": "quantitative","sort": "ascending"}
-    },
-    "tooltip": [
-      {"field": "Country", "type": "nominal"},
-      {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
-      {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"}
+      "x": {"field": "Number_of_wins","type": "quantitative","sort": "ascending"},
+      "tooltip": [
+        {"field": "Country", "type": "nominal"},
+        {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
+        {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"  }
     ]
   }
+}

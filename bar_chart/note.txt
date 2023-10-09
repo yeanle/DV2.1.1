@@ -1,0 +1,8 @@
+{"sort":[
+  {"field":"datum.Number_of_wins", "order": "ascending"}
+],
+"window": [{
+  "op": "count",
+  "as": "Number_of_wins"
+}],
+"groupby": ["datum.Number_of_wins"]}

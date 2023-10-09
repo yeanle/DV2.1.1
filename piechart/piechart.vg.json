@@ -4,7 +4,7 @@
     "width": 800,
     "height": 600,
     "title": "Constructor ",
-    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_constructor.csv"},
     "layer": [{
       "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
     },{

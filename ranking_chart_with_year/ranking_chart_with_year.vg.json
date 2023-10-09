@@ -1,0 +1,33 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 600,
+    "title": {
+      "text": "Ranking of formula one from 1950 -20",
+      "frame": "bounds"
+    },
+    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_result2.csv"
+    },
+    "transform": [
+        {"filter": "datum.position > 5"},
+    {
+      "sort": [
+        {"field": "datum.position", "order": "descending"},
+        {"field": "datum.year", "order": "descending"}
+      ],
+      "window": [{
+        "op": "rank",
+        "as": "rank"
+      }],
+      "groupby": ["datum.year"]
+    }],
+    "mark": {"type": "line", "orient": "vertical"},
+    "encoding": {
+      "x": {"field": "datum.year", "type": "ordinal"},
+      "y": {"field": "datum.position", "type": "ordinal"},
+      "color": {
+        "field": "datum.driverRef", "type": "nominal"
+       
+      }
+    }
+  }
