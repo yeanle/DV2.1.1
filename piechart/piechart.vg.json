@@ -1,0 +1,23 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "description": "A simple radial chart with embedded data.",
+    "width": 800,
+    "height": 600,
+    "title": "Constructor ",
+    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"},
+    "layer": [{
+      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
+    },{
+      "mark": {"type": "text", "radiusOffset": 10},
+      "transform": [{"filter": "datum.wins >=1"}],
+      "encoding": {
+        "text": {"field": "datum.wins", "type": "quantitative"}
+      }
+    }],
+    "encoding": {
+      "theta": {"field": "datum.wins", "type": "quantitative", "stack": true},
+      "radius": {"field": "datum.wins", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
+      "color": {"field": "datum.wins", "type": "nominal", "legend": null}
+    }
+  }
+  
