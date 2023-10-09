@@ -5,11 +5,6 @@
 4,4,18,4,5,\N,2008,1,1,NA,4:30:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,renault,Renault,French,4,5,4,4,0
 5,5,18,5,2,\N,2008,1,1,NA,4:30:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,toro_rosso,Toro Rosso,Italian,5,2,5,5,0
 6,6,18,6,1,\N,2008,1,1,NA,4:30:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,ferrari,Ferrari,Italian,6,1,6,6,0
-7,7,18,7,0,\N,2008,1,1,NA,4:30:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,toyota,Toyota,Japanese,NA,NA,NA,NA,NA
-8,8,18,8,0,\N,2008,1,1,NA,4:30:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,super_aguri,Super Aguri,Japanese,NA,NA,NA,NA,NA
-9,9,18,9,0,\N,2008,1,1,NA,4:30:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,red_bull,Red Bull,Austrian,NA,NA,NA,NA,NA
-10,10,18,10,0,\N,2008,1,1,NA,4:30:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,force_india,Force India,Indian,NA,NA,NA,NA,NA
-11,11,18,11,0,\N,2008,1,1,NA,4:30:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,honda,Honda,Japanese,NA,NA,NA,NA,NA
 12,12,19,6,10,\N,2008,2,2,NA,7:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,ferrari,Ferrari,Italian,12,11,3,3,1
 13,13,19,2,11,\N,2008,2,2,NA,7:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,bmw_sauber,BMW Sauber,German,8,19,2,2,0
 14,14,19,1,10,\N,2008,2,2,NA,7:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,mclaren,McLaren,British,7,24,1,1,1
@@ -765,7 +760,6 @@
 764,764,90,19,0,\N,2004,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jaguar,Jaguar,British,6144,0,7,7,0
 765,765,90,7,0,\N,2004,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,toyota,Toyota,Japanese,6145,0,8,8,0
 766,766,90,17,0,\N,2004,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jordan,Jordan,Irish,6146,0,9,9,0
-767,767,90,18,0,\N,2004,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,NA,NA,NA,NA,NA
 768,768,91,6,15,\N,2004,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,ferrari,Ferrari,Italian,6147,33,1,1,2
 769,769,91,3,8,\N,2004,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,williams,Williams,British,6149,17,2,2,0
 770,770,91,16,6,\N,2004,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,bar,BAR,British,6150,9,4,4,0
@@ -943,9 +937,6 @@
 942,942,108,15,3,\N,2003,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,sauber,Sauber,Swiss,5986,3,5,5,0
 943,943,108,16,0,\N,2003,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,bar,BAR,British,5987,0,6,6,0
 944,944,108,18,0,\N,2003,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,5988,0,7,7,0
-945,945,108,17,0,\N,2003,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jordan,Jordan,Irish,NA,NA,NA,NA,NA
-946,946,108,19,0,\N,2003,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jaguar,Jaguar,British,NA,NA,NA,NA,NA
-947,947,108,7,0,\N,2003,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,toyota,Toyota,Japanese,NA,NA,NA,NA,NA
 948,948,109,1,10,\N,2003,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,mclaren,McLaren,British,5989,26,1,1,2
 949,949,109,6,11,\N,2003,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,ferrari,Ferrari,Italian,5991,16,2,2,0
 950,950,109,4,10,\N,2003,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,renault,Renault,French,5992,16,3,3,0
@@ -955,7 +946,6 @@
 954,954,109,17,0,\N,2003,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,jordan,Jordan,Irish,5996,0,7,7,0
 955,955,109,7,0,\N,2003,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,toyota,Toyota,Japanese,5997,0,9,9,0
 956,956,109,18,0,\N,2003,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,minardi,Minardi,Italian,5995,0,8,8,0
-957,957,109,19,0,\N,2003,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,jaguar,Jaguar,British,NA,NA,NA,NA,NA
 958,958,110,17,10,\N,2003,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,jordan,Jordan,Irish,6005,10,5,5,1
 959,959,110,1,13,\N,2003,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,mclaren,McLaren,British,5998,39,1,1,2
 960,960,110,4,7,\N,2003,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,renault,Renault,French,6001,23,2,2,0
@@ -1102,11 +1092,6 @@
 1101,1101,124,19,3,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jaguar,Jaguar,British,5803,3,4,4,0
 1102,1102,124,18,2,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,5804,2,5,5,0
 1103,1103,124,7,1,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,toyota,Toyota,Japanese,5805,1,6,6,0
-1104,1104,124,16,0,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,bar,BAR,British,NA,NA,NA,NA,NA
-1105,1105,124,21,0,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,arrows,Arrows,British,NA,NA,NA,NA,NA
-1106,1106,124,17,0,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jordan,Jordan,Irish,NA,NA,NA,NA,NA
-1107,1107,124,4,0,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,renault,Renault,French,NA,NA,NA,NA,NA
-1108,1108,124,15,0,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,sauber,Sauber,Swiss,NA,NA,NA,NA,NA
 1109,1109,125,3,16,\N,2002,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,williams,Williams,British,5807,22,1,1,1
 1110,1110,125,6,4,\N,2002,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,ferrari,Ferrari,Italian,5806,14,2,2,1
 1111,1111,125,4,3,\N,2002,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,renault,Renault,French,5812,3,5,5,0
@@ -1288,7 +1273,6 @@
 1287,1287,141,21,0,\N,2001,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,arrows,Arrows,British,5621,0,8,8,0
 1288,1288,141,18,0,\N,2001,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,5622,0,9,9,0
 1289,1289,141,22,0,\N,2001,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,benetton,Benetton,Italian,5623,0,10,10,0
-1290,1290,141,3,0,\N,2001,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,williams,Williams,British,NA,NA,NA,NA,NA
 1291,1291,142,6,16,\N,2001,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,ferrari,Ferrari,Italian,5624,30,1,1,2
 1292,1292,142,1,5,\N,2001,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,mclaren,McLaren,British,5625,11,2,2,0
 1293,1293,142,17,3,\N,2001,2,2,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sepang,Sepang International Circuit,Kuala Lumpur,Malaysia,2.76083,101.738,18,jordan,Jordan,Irish,5627,5,3,3,0
@@ -1471,11 +1455,6 @@
 1470,1470,158,22,2,\N,2000,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,benetton,Benetton,Italian,1457,2,4,4,0
 1471,1471,158,18,0,\N,2000,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,1458,0,5,5,0
 1472,1472,158,20,0,\N,2000,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,prost,Prost,French,1459,0,6,6,0
-1473,1473,158,15,0,\N,2000,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,sauber,Sauber,Swiss,NA,NA,NA,NA,NA
-1474,1474,158,17,0,\N,2000,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jordan,Jordan,Irish,NA,NA,NA,NA,NA
-1475,1475,158,1,0,\N,2000,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,mclaren,McLaren,British,NA,NA,NA,NA,NA
-1476,1476,158,21,0,\N,2000,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,arrows,Arrows,British,NA,NA,NA,NA,NA
-1477,1477,158,19,0,\N,2000,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jaguar,Jaguar,British,NA,NA,NA,NA,NA
 1478,1478,159,6,10,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,ferrari,Ferrari,Italian,1460,26,1,1,2
 1479,1479,159,22,6,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,benetton,Benetton,Italian,1463,8,2,2,0
 1480,1480,159,17,7,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,jordan,Jordan,Irish,1466,7,3,3,0
@@ -1483,10 +1462,7 @@
 1482,1482,159,21,0,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,arrows,Arrows,British,1467,0,6,6,0
 1483,1483,159,16,0,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,bar,BAR,British,1462,4,5,5,0
 1484,1484,159,18,0,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,minardi,Minardi,Italian,1464,0,7,7,0
-1485,1485,159,1,0,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,mclaren,McLaren,British,NA,NA,NA,NA,NA
-1486,1486,159,19,0,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,jaguar,Jaguar,British,NA,NA,NA,NA,NA
 1487,1487,159,20,0,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,prost,Prost,French,1465,0,8,8,0
-1488,1488,159,15,0,\N,2000,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,sauber,Sauber,Swiss,NA,NA,NA,NA,NA
 1489,1489,160,6,13,\N,2000,3,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,ferrari,Ferrari,Italian,1468,39,1,1,3
 1490,1490,160,1,10,\N,2000,3,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,mclaren,McLaren,British,1476,10,2,2,0
 1491,1491,160,16,2,\N,2000,3,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,bar,BAR,British,1470,6,6,6,0
@@ -1658,11 +1634,6 @@
 1657,1657,175,22,3,\N,1999,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,benetton,Benetton,Italian,5448,3,4,4,0
 1658,1658,175,24,2,\N,1999,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,stewart,Stewart,British,5449,2,5,5,0
 1659,1659,175,21,1,\N,1999,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,arrows,Arrows,British,5450,1,6,6,0
-1660,1660,175,16,0,\N,1999,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,bar,BAR,British,NA,NA,NA,NA,NA
-1661,1661,175,18,0,\N,1999,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,NA,NA,NA,NA,NA
-1662,1662,175,15,0,\N,1999,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,sauber,Sauber,Swiss,NA,NA,NA,NA,NA
-1663,1663,175,20,0,\N,1999,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,prost,Prost,French,NA,NA,NA,NA,NA
-1664,1664,175,1,0,\N,1999,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,mclaren,McLaren,British,NA,NA,NA,NA,NA
 1665,1665,176,1,10,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,mclaren,McLaren,British,5457,10,2,2,1
 1666,1666,176,6,8,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,ferrari,Ferrari,Italian,5451,18,1,1,1
 1667,1667,176,17,4,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,jordan,Jordan,Irish,5452,10,3,3,0
@@ -1671,9 +1642,7 @@
 1670,1670,176,22,0,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,benetton,Benetton,Italian,5454,3,5,5,0
 1671,1671,176,21,0,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,arrows,Arrows,British,5456,1,7,7,0
 1672,1672,176,18,0,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,minardi,Minardi,Italian,5459,0,9,9,0
-1673,1673,176,16,0,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,bar,BAR,British,NA,NA,NA,NA,NA
 1674,1674,176,24,0,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,stewart,Stewart,British,5455,2,6,6,0
-1675,1675,176,15,0,\N,1999,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,sauber,Sauber,Swiss,NA,NA,NA,NA,NA
 1676,1676,177,6,10,\N,1999,3,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,ferrari,Ferrari,Italian,5460,28,1,1,2
 1677,1677,177,1,6,\N,1999,3,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,mclaren,McLaren,British,5466,16,2,2,1
 1678,1678,177,24,4,\N,1999,3,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,stewart,Stewart,British,5464,6,5,5,0
@@ -1835,10 +1804,6 @@
 1834,1834,191,22,0,\N,1998,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,benetton,Benetton,Italian,2059,0,5,5,0
 1835,1835,191,17,0,\N,1998,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jordan,Jordan,Irish,2060,0,6,6,0
 1836,1836,191,20,0,\N,1998,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,prost,Prost,French,2061,0,7,7,0
-1837,1837,191,25,0,\N,1998,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
-1838,1838,191,21,0,\N,1998,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,arrows,Arrows,British,NA,NA,NA,NA,NA
-1839,1839,191,18,0,\N,1998,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,NA,NA,NA,NA,NA
-1840,1840,191,24,0,\N,1998,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,stewart,Stewart,British,NA,NA,NA,NA,NA
 1841,1841,192,1,16,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,mclaren,McLaren,British,2062,32,1,1,2
 1842,1842,192,6,4,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,ferrari,Ferrari,Italian,2064,7,3,3,0
 1843,1843,192,22,4,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,benetton,Benetton,Italian,2066,4,4,4,0
@@ -1847,9 +1812,6 @@
 1846,1846,192,24,0,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,stewart,Stewart,British,2069,0,8,8,0
 1847,1847,192,17,0,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,jordan,Jordan,Irish,2067,0,6,6,0
 1848,1848,192,20,0,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,prost,Prost,French,2068,0,7,7,0
-1849,1849,192,25,0,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
-1850,1850,192,18,0,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,minardi,Minardi,Italian,NA,NA,NA,NA,NA
-1851,1851,192,21,0,\N,1998,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,arrows,Arrows,British,NA,NA,NA,NA,NA
 1852,1852,193,6,14,\N,1998,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,ferrari,Ferrari,Italian,2072,21,2,2,1
 1853,1853,193,1,7,\N,1998,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,mclaren,McLaren,British,2070,39,1,1,2
 1854,1854,193,22,3,\N,1998,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,benetton,Benetton,Italian,2074,7,4,4,0
@@ -1860,7 +1822,6 @@
 1859,1859,193,20,0,\N,1998,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,prost,Prost,French,2076,0,7,7,0
 1860,1860,193,25,0,\N,1998,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,tyrrell,Tyrrell,British,2078,0,9,9,0
 1861,1861,193,18,0,\N,1998,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,minardi,Minardi,Italian,2079,0,10,10,0
-1862,1862,193,21,0,\N,1998,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,arrows,Arrows,British,NA,NA,NA,NA,NA
 1863,1863,194,1,10,\N,1998,4,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,mclaren,McLaren,British,2080,49,1,1,3
 1864,1864,194,6,10,\N,1998,4,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,ferrari,Ferrari,Italian,2082,31,2,2,1
 1865,1865,194,3,5,\N,1998,4,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,williams,Williams,British,2081,13,3,3,0
@@ -2012,10 +1973,6 @@
 2011,2011,207,3,0,\N,1997,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,williams,Williams,British,5255,0,6,6,0
 2012,2012,207,18,0,\N,1997,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,5256,0,7,7,0
 2013,2013,207,21,0,\N,1997,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,arrows,Arrows,British,5257,0,8,8,0
-2014,2014,207,24,0,\N,1997,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,stewart,Stewart,British,NA,NA,NA,NA,NA
-2015,2015,207,25,0,\N,1997,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
-2016,2016,207,17,0,\N,1997,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jordan,Jordan,Irish,NA,NA,NA,NA,NA
-2017,2017,207,26,0,\N,1997,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,lola,Lola,British,NA,NA,NA,NA,NA
 2018,2018,208,3,10,\N,1997,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,williams,Williams,British,5263,10,2,2,1
 2019,2019,208,22,7,\N,1997,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,benetton,Benetton,Italian,5260,10,3,3,0
 2020,2020,208,20,4,\N,1997,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,prost,Prost,French,5261,6,5,5,0
@@ -2026,7 +1983,6 @@
 2025,2025,208,18,0,\N,1997,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,minardi,Minardi,Italian,5264,0,8,8,0
 2026,2026,208,25,0,\N,1997,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,tyrrell,Tyrrell,British,5267,0,10,10,0
 2027,2027,208,21,0,\N,1997,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,arrows,Arrows,British,5265,0,9,9,0
-2028,2028,208,24,0,\N,1997,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,stewart,Stewart,British,NA,NA,NA,NA,NA
 2029,2029,209,3,10,\N,1997,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,williams,Williams,British,5273,20,1,1,2
 2030,2030,209,6,6,\N,1997,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,ferrari,Ferrari,Italian,5269,14,3,3,0
 2031,2031,209,17,4,\N,1997,3,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,jordan,Jordan,Irish,5276,4,6,6,0
@@ -2200,9 +2156,6 @@
 2199,2199,224,27,0,\N,1996,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,ligier,Ligier,French,2423,0,6,6,0
 2200,2200,224,15,0,\N,1996,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,sauber,Sauber,Swiss,2424,0,7,7,0
 2201,2201,224,29,0,\N,1996,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,footwork,Footwork,British,2425,0,8,8,0
-2202,2202,224,18,0,\N,1996,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,minardi,Minardi,Italian,NA,NA,NA,NA,NA
-2203,2203,224,17,0,\N,1996,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,jordan,Jordan,Irish,NA,NA,NA,NA,NA
-2204,2204,224,28,0,\N,1996,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,forti,Forti,Italian,NA,NA,NA,NA,NA
 2205,2205,225,3,10,\N,1996,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,williams,Williams,British,2426,26,1,1,2
 2206,2206,225,22,6,\N,1996,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,benetton,Benetton,Italian,2428,9,2,2,0
 2207,2207,225,6,4,\N,1996,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,ferrari,Ferrari,Italian,2427,8,3,3,0
@@ -2370,11 +2323,6 @@
 2369,2369,240,27,0,\N,1995,1,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,ligier,Ligier,French,5042,0,6,6,0
 2370,2370,240,30,0,\N,1995,1,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,pacific,Pacific,British,5043,0,7,7,0
 2371,2371,240,28,0,\N,1995,1,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,forti,Forti,Italian,5044,0,8,8,0
-2372,2372,240,29,0,\N,1995,1,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,footwork,Footwork,British,NA,NA,NA,NA,NA
-2373,2373,240,18,0,\N,1995,1,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,minardi,Minardi,Italian,NA,NA,NA,NA,NA
-2374,2374,240,15,0,\N,1995,1,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,sauber,Sauber,Swiss,NA,NA,NA,NA,NA
-2375,2375,240,17,0,\N,1995,1,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,jordan,Jordan,Irish,NA,NA,NA,NA,NA
-2376,2376,240,31,0,\N,1995,1,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,simtek,Simtek,British,NA,NA,NA,NA,NA
 2377,2377,241,3,10,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,williams,Williams,British,5046,16,2,2,1
 2378,2378,241,6,7,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,ferrari,Ferrari,Italian,5047,13,3,3,0
 2379,2379,241,22,7,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,benetton,Benetton,Italian,5045,17,1,1,1
@@ -2383,9 +2331,6 @@
 2382,2382,241,25,0,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,tyrrell,Tyrrell,British,5049,0,7,7,0
 2383,2383,241,31,0,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,simtek,Simtek,British,5054,0,9,9,0
 2384,2384,241,28,0,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,forti,Forti,Italian,5052,0,10,10,0
-2385,2385,241,18,0,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,minardi,Minardi,Italian,NA,NA,NA,NA,NA
-2386,2386,241,29,0,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,footwork,Footwork,British,NA,NA,NA,NA,NA
-2387,2387,241,17,0,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,jordan,Jordan,Irish,NA,NA,NA,NA,NA
 2388,2388,241,1,0,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,mclaren,McLaren,British,5048,4,4,4,0
 2389,2389,241,30,0,\N,1995,2,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,pacific,Pacific,British,5051,0,8,8,0
 2390,2390,242,3,13,\N,1995,3,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,williams,Williams,British,5056,29,1,1,2
@@ -2802,12 +2747,6 @@
 2801,2801,273,15,2,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,sauber,Sauber,Swiss,4639,2,5,5,0
 2802,2802,273,6,1,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,ferrari,Ferrari,Italian,4640,1,6,6,0
 2803,2803,273,29,0,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,footwork,Footwork,British,4641,0,7,7,0
-2804,2804,273,26,0,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,lola,Lola,British,NA,NA,NA,NA,NA
-2805,2805,273,33,0,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,larrousse,Larrousse,French,NA,NA,NA,NA,NA
-2806,2806,273,22,0,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,benetton,Benetton,Italian,NA,NA,NA,NA,NA
-2807,2807,273,32,0,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,team_lotus,Team Lotus,British,NA,NA,NA,NA,NA
-2808,2808,273,17,0,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,jordan,Jordan,Irish,NA,NA,NA,NA,NA
-2809,2809,273,25,0,\N,1993,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
 2810,2810,274,1,10,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,mclaren,McLaren,British,4643,16,1,1,1
 2811,2811,274,3,6,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,williams,Williams,British,4642,16,2,2,1
 2812,2812,274,22,4,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,benetton,Benetton,Italian,4649,4,4,4,0
@@ -2818,9 +2757,7 @@
 2817,2817,274,29,0,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,footwork,Footwork,British,4648,0,9,9,0
 2818,2818,274,26,0,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,lola,Lola,British,4652,0,11,11,0
 2819,2819,274,15,0,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,sauber,Sauber,Swiss,4646,2,7,7,0
-2820,2820,274,25,0,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
 2821,2821,274,18,0,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,minardi,Minardi,Italian,4645,3,6,6,0
-2822,2822,274,17,0,\N,1993,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,jordan,Jordan,Irish,NA,NA,NA,NA,NA
 2823,2823,275,1,10,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,mclaren,McLaren,British,4654,26,1,1,2
 2824,2824,275,3,10,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,williams,Williams,British,4653,26,2,2,1
 2825,2825,275,32,3,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,team_lotus,Team Lotus,British,4661,7,3,3,0
@@ -2830,7 +2767,6 @@
 2829,2829,275,17,0,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,jordan,Jordan,Irish,4664,0,11,11,0
 2830,2830,275,26,0,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,lola,Lola,British,4663,0,12,12,0
 2831,2831,275,29,0,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,footwork,Footwork,British,4659,0,10,10,0
-2832,2832,275,25,0,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
 2833,2833,275,6,0,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,ferrari,Ferrari,Italian,4658,1,8,8,0
 2834,2834,275,27,0,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,ligier,Ligier,French,4655,6,5,5,0
 2835,2835,275,15,0,\N,1993,3,31,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,donington,Donington Park,Castle Donington,UK,52.8306,-1.37528,88,sauber,Sauber,Swiss,4657,2,7,7,0
@@ -2845,7 +2781,6 @@
 2844,2844,276,29,0,\N,1993,4,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,footwork,Footwork,British,4671,0,10,10,0
 2845,2845,276,1,0,\N,1993,4,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,mclaren,McLaren,British,4666,26,2,2,2
 2846,2846,276,6,0,\N,1993,4,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,ferrari,Ferrari,Italian,4670,1,9,9,0
-2847,2847,276,25,0,\N,1993,4,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
 2848,2848,276,17,0,\N,1993,4,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,jordan,Jordan,Irish,4676,0,12,12,0
 2849,2849,277,3,10,\N,1993,5,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,williams,Williams,British,4677,46,1,1,3
 2850,2850,277,1,8,\N,1993,5,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,mclaren,McLaren,British,4678,34,2,2,2
@@ -2859,7 +2794,6 @@
 2858,2858,277,32,0,\N,1993,5,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,team_lotus,Team Lotus,British,4685,7,5,5,0
 2859,2859,277,15,0,\N,1993,5,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,sauber,Sauber,Swiss,4681,5,6,6,0
 2860,2860,277,26,0,\N,1993,5,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,lola,Lola,British,4687,0,11,11,0
-2861,2861,277,25,0,\N,1993,5,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
 2862,2862,278,1,10,\N,1993,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,mclaren,McLaren,British,4690,44,2,2,3
 2863,2863,278,3,9,\N,1993,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,williams,Williams,British,4689,55,1,1,3
 2864,2864,278,6,4,\N,1993,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,ferrari,Ferrari,Italian,4694,6,7,7,0
@@ -3010,13 +2944,6 @@
 3009,3009,289,17,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,jordan,Jordan,Irish,3253,0,7,7,0
 3010,3010,289,33,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,larrousse,Larrousse,French,3254,0,8,8,0
 3011,3011,289,34,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,brabham,Brabham,British,3255,0,9,9,0
-3012,3012,289,25,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
-3013,3013,289,35,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,dallara,Dallara,Italian,NA,NA,NA,NA,NA
-3014,3014,289,18,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,minardi,Minardi,Italian,NA,NA,NA,NA,NA
-3015,3015,289,6,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,ferrari,Ferrari,Italian,NA,NA,NA,NA,NA
-3016,3016,289,36,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,fondmetal,Fondmetal,Italian,NA,NA,NA,NA,NA
-3017,3017,289,37,0,\N,1992,1,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,march,March,British,NA,NA,NA,NA,NA
-3018,3018,124,2,0,\N,2002,1,1,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,bmw_sauber,BMW Sauber,German,NA,NA,NA,NA,NA
 3019,3019,290,3,16,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,williams,Williams,British,3256,32,1,1,2
 3020,3020,290,22,4,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,benetton,Benetton,Italian,3258,7,3,3,0
 3021,3021,290,1,3,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,mclaren,McLaren,British,3257,9,2,2,0
@@ -3026,11 +2953,7 @@
 3025,3025,290,27,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,ligier,Ligier,French,3260,0,6,6,0
 3026,3026,290,33,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,larrousse,Larrousse,French,3263,0,9,9,0
 3027,3027,290,29,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,footwork,Footwork,British,3261,0,7,7,0
-3028,3028,290,36,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,fondmetal,Fondmetal,Italian,NA,NA,NA,NA,NA
-3029,3029,290,6,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,ferrari,Ferrari,Italian,NA,NA,NA,NA,NA
-3030,3030,290,18,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,minardi,Minardi,Italian,NA,NA,NA,NA,NA
 3031,3031,290,17,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,jordan,Jordan,Irish,3262,0,10,10,0
-3032,3032,290,37,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,march,March,British,NA,NA,NA,NA,NA
 3033,3033,290,34,0,\N,1992,2,32,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,brabham,Brabham,British,3264,0,11,11,0
 3034,3034,291,3,16,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,williams,Williams,British,3267,48,1,1,3
 3035,3035,291,22,4,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,benetton,Benetton,Italian,3269,11,2,2,0
@@ -3040,8 +2963,6 @@
 3039,3039,291,35,0,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,dallara,Dallara,Italian,3277,0,10,10,0
 3040,3040,291,33,0,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,larrousse,Larrousse,French,3274,0,11,11,0
 3041,3041,291,32,0,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,team_lotus,Team Lotus,British,3270,2,6,6,0
-3042,3042,291,36,0,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,fondmetal,Fondmetal,Italian,NA,NA,NA,NA,NA
-3043,3043,291,37,0,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,march,March,British,NA,NA,NA,NA,NA
 3044,3044,291,25,0,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,tyrrell,Tyrrell,British,3276,2,5,5,0
 3045,3045,291,27,0,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,ligier,Ligier,French,3271,0,8,8,0
 3046,3046,291,17,0,\N,1992,3,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,jordan,Jordan,Irish,3273,0,12,12,0
@@ -3055,14 +2976,12 @@
 3054,3054,292,35,1,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,dallara,Dallara,Italian,3318,1,8,8,0
 3055,3055,292,37,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,march,March,British,3321,0,11,11,0
 3056,3056,292,18,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,minardi,Minardi,Italian,3320,0,10,10,0
-3057,3057,292,36,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,fondmetal,Fondmetal,Italian,NA,NA,NA,NA,NA
 3058,3058,292,32,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,team_lotus,Team Lotus,British,3311,2,7,7,0
 3059,3059,292,27,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,ligier,Ligier,French,3312,0,9,9,0
 3060,3060,292,33,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,larrousse,Larrousse,French,3315,0,12,12,0
 3061,3061,292,25,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,tyrrell,Tyrrell,British,3317,2,6,6,0
 3062,3062,292,17,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,jordan,Jordan,Irish,3314,0,13,13,0
 3063,3063,292,34,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,brabham,Brabham,British,3316,0,14,14,0
-3064,3064,292,38,0,\N,1992,4,4,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,catalunya,Circuit de Barcelona-Catalunya,Montmeló,Spain,41.57,2.26111,109,moda,Andrea Moda,Italian,NA,NA,NA,NA,NA
 3065,3065,293,3,16,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,williams,Williams,British,3322,74,1,1,5
 3066,3066,293,1,4,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,mclaren,McLaren,British,3323,16,3,3,0
 3067,3067,293,22,3,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,benetton,Benetton,Italian,3324,20,2,2,0
@@ -3075,10 +2994,8 @@
 3074,3074,293,33,0,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,larrousse,Larrousse,French,3329,0,13,13,0
 3075,3075,293,6,0,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,ferrari,Ferrari,Italian,3333,9,4,4,0
 3076,3076,293,18,0,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,minardi,Minardi,Italian,3334,0,11,11,0
-3077,3077,293,36,0,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,fondmetal,Fondmetal,Italian,NA,NA,NA,NA,NA
 3078,3078,293,32,0,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,team_lotus,Team Lotus,British,3325,2,7,7,0
 3079,3079,293,34,0,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,brabham,Brabham,British,3330,0,14,14,0
-3080,3080,293,38,0,\N,1992,5,21,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,imola,Autodromo Enzo e Dino Ferrari,Imola,Italy,44.3439,11.7167,37,moda,Andrea Moda,Italian,NA,NA,NA,NA,NA
 3081,3081,294,1,10,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,mclaren,McLaren,British,3337,26,2,2,1
 3082,3082,294,3,10,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,williams,Williams,British,3336,84,1,1,5
 3083,3083,294,22,5,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,benetton,Benetton,Italian,3338,25,3,3,0
@@ -3090,9 +3007,7 @@
 3089,3089,294,6,0,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,ferrari,Ferrari,Italian,3347,9,4,4,0
 3090,3090,294,32,0,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,team_lotus,Team Lotus,British,3339,2,7,7,0
 3091,3091,294,17,0,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,jordan,Jordan,Irish,3342,0,12,12,0
-3092,3092,294,38,0,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,moda,Andrea Moda,Italian,NA,NA,NA,NA,NA
 3093,3093,294,25,0,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,tyrrell,Tyrrell,British,3345,2,6,6,0
-3094,3094,294,36,0,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,fondmetal,Fondmetal,Italian,NA,NA,NA,NA,NA
 3095,3095,294,37,0,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,march,March,British,3349,0,13,13,0
 3096,3096,294,34,0,\N,1992,6,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,brabham,Brabham,British,3344,0,14,14,0
 3097,3097,295,1,10,\N,1992,7,7,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,mclaren,McLaren,British,3351,36,2,2,2
@@ -3108,9 +3023,7 @@
 3107,3107,295,3,0,\N,1992,7,7,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,williams,Williams,British,3350,84,1,1,5
 3108,3108,295,17,0,\N,1992,7,7,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,jordan,Jordan,Irish,3356,0,13,13,0
 3109,3109,295,32,0,\N,1992,7,7,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,team_lotus,Team Lotus,British,3353,2,8,8,0
-3110,3110,295,36,0,\N,1992,7,7,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,fondmetal,Fondmetal,Italian,NA,NA,NA,NA,NA
 3111,3111,295,34,0,\N,1992,7,7,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,brabham,Brabham,British,3358,0,14,14,0
-3112,3112,295,38,0,\N,1992,7,7,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,villeneuve,Circuit Gilles Villeneuve,Montreal,Canada,45.5,-73.5228,13,moda,Andrea Moda,Italian,NA,NA,NA,NA,NA
 3113,3113,296,3,16,\N,1992,8,8,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,williams,Williams,British,3364,100,1,1,6
 3114,3114,296,22,4,\N,1992,8,8,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,benetton,Benetton,Italian,3366,35,3,3,0
 3115,3115,296,32,4,\N,1992,8,8,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,team_lotus,Team Lotus,British,3367,6,5,5,0
@@ -3124,7 +3037,6 @@
 3123,3123,296,37,0,\N,1992,8,8,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,march,March,British,3377,3,8,8,0
 3124,3124,296,17,0,\N,1992,8,8,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,jordan,Jordan,Irish,3370,0,13,13,0
 3125,3125,296,1,0,\N,1992,8,8,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,mclaren,McLaren,British,3365,36,2,2,2
-3126,3126,296,36,0,\N,1992,8,8,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,fondmetal,Fondmetal,Italian,NA,NA,NA,NA,NA
 3127,3127,296,34,0,\N,1992,8,8,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,magny_cours,Circuit de Nevers Magny-Cours,Magny Cours,France,46.8642,3.16361,228,brabham,Brabham,British,3372,0,14,14,0
 3128,3128,297,3,16,\N,1992,9,9,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,153,williams,Williams,British,3378,116,1,1,7
 3129,3129,297,22,7,\N,1992,9,9,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,153,benetton,Benetton,Italian,3380,42,2,2,0
@@ -3141,7 +3053,6 @@
 3140,3140,297,17,0,\N,1992,9,9,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,153,jordan,Jordan,Irish,3384,0,13,13,0
 3141,3141,297,33,0,\N,1992,9,9,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,153,larrousse,Larrousse,French,3385,1,11,11,0
 3142,3142,297,37,0,\N,1992,9,9,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,153,march,March,British,3391,3,8,8,0
-3143,3143,297,38,0,\N,1992,9,9,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,silverstone,Silverstone Circuit,Silverstone,UK,52.0786,-1.01694,153,moda,Andrea Moda,Italian,NA,NA,NA,NA,NA
 3144,3144,298,3,10,\N,1992,10,10,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,williams,Williams,British,3393,126,1,1,8
 3145,3145,298,1,6,\N,1992,10,10,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,mclaren,McLaren,British,3394,44,3,3,2
 3146,3146,298,22,7,\N,1992,10,10,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,benetton,Benetton,Italian,3395,49,2,2,0
@@ -3157,7 +3068,6 @@
 3156,3156,298,25,0,\N,1992,10,10,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,tyrrell,Tyrrell,British,3402,4,7,7,0
 3157,3157,298,32,0,\N,1992,10,10,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,team_lotus,Team Lotus,British,3396,7,5,5,0
 3158,3158,298,34,0,\N,1992,10,10,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,brabham,Brabham,British,3401,0,14,14,0
-3159,3159,298,38,0,\N,1992,10,10,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hockenheimring,Hockenheimring,Hockenheim,Germany,49.3278,8.56583,103,moda,Andrea Moda,Italian,NA,NA,NA,NA,NA
 3160,3160,299,1,14,\N,1992,11,11,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,mclaren,McLaren,British,3409,58,2,2,3
 3161,3161,299,3,6,\N,1992,11,11,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,williams,Williams,British,3408,132,1,1,8
 3162,3162,299,32,3,\N,1992,11,11,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,team_lotus,Team Lotus,British,3411,10,5,5,0
@@ -3173,7 +3083,6 @@
 3172,3172,299,36,0,\N,1992,11,11,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,fondmetal,Fondmetal,Italian,3422,0,15,15,0
 3173,3173,299,27,0,\N,1992,11,11,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,ligier,Ligier,French,3412,4,8,8,0
 3174,3174,299,18,0,\N,1992,11,11,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,minardi,Minardi,Italian,3420,0,12,12,0
-3175,3175,299,38,0,\N,1992,11,11,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,hungaroring,Hungaroring,Budapest,Hungary,47.5789,19.2486,264,moda,Andrea Moda,Italian,NA,NA,NA,NA,NA
 3176,3176,300,22,13,\N,1992,12,13,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,benetton,Benetton,Italian,3425,64,2,2,1
 3177,3177,300,3,10,\N,1992,12,13,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,williams,Williams,British,3423,142,1,1,8
 3178,3178,300,1,2,\N,1992,12,13,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,mclaren,McLaren,British,3424,60,3,3,3
@@ -3188,7 +3097,6 @@
 3187,3187,300,33,0,\N,1992,12,13,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,larrousse,Larrousse,French,3430,1,11,11,0
 3188,3188,300,27,0,\N,1992,12,13,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,ligier,Ligier,French,3427,4,8,8,0
 3189,3189,300,6,0,\N,1992,12,13,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,ferrari,Ferrari,Italian,3434,16,4,4,0
-3190,3190,300,38,0,\N,1992,12,13,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,moda,Andrea Moda,Italian,NA,NA,NA,NA,NA
 3191,3191,301,1,13,\N,1992,13,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,mclaren,McLaren,British,3439,73,3,3,4
 3192,3192,301,22,10,\N,1992,13,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,benetton,Benetton,Italian,3440,74,2,2,1
 3193,3193,301,3,2,\N,1992,13,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,williams,Williams,British,3438,144,1,1,8
@@ -3822,7 +3730,6 @@
 3821,3821,336,21,0,\N,1990,16,29,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,adelaide,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,58,arrows,Arrows,British,7916,2,9,9,0
 3822,3822,336,42,0,\N,1990,16,29,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,adelaide,Adelaide Street Circuit,Adelaide,Australia,-34.9272,138.617,58,coloni,Coloni,Italian,7927,0,18,18,0
 3823,3823,1,23,18,\N,2009,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,brawn,Brawn,British,4038,18,1,1,1
-3824,3824,1,1,0,\N,2009,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,mclaren,McLaren,British,NA,NA,NA,NA,NA
 3825,3825,1,7,11,\N,2009,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,toyota,Toyota,Japanese,4039,11,2,2,0
 3826,3826,1,4,4,\N,2009,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,renault,Renault,French,4040,4,3,3,0
 3827,3827,1,3,3,\N,2009,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,williams,Williams,British,4041,3,4,4,0
@@ -5276,14 +5183,12 @@
 5275,5275,436,4,2,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,renault,Renault,French,10218,2,5,5,0
 5276,5276,436,21,1,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,arrows,Arrows,British,10219,1,6,6,0
 5277,5277,436,50,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,ram,RAM,British,10220,0,7,7,0
-5278,5278,436,25,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,tyrrell,Tyrrell,British,NA,NA,NA,NA,NA
 5279,5279,436,27,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,ligier,Ligier,French,10221,0,8,8,0
 5280,5280,436,34,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,brabham,Brabham,British,10222,0,9,9,0
 5281,5281,436,6,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,ferrari,Ferrari,Italian,10223,0,10,10,0
 5282,5282,436,45,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,osella,Osella,Italian,10224,0,11,11,0
 5283,5283,436,53,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,toleman,Toleman,British,10225,0,12,12,0
 5284,5284,436,52,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,spirit,Spirit,British,10226,0,13,13,0
-5285,5285,436,54,0,\N,1984,1,36,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,jacarepagua,Autódromo Internacional Nelson Piquet,Rio de Janeiro,Brazil,-22.9756,-43.395,1126,ats,ATS,Italian,NA,NA,NA,NA,NA
 5286,5286,437,1,15,\N,1984,2,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,mclaren,McLaren,British,10227,24,1,1,2
 5287,5287,437,4,4,\N,1984,2,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,renault,Renault,French,10231,6,3,3,0
 5288,5288,437,51,3,\N,1984,2,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,alfa,Alfa Romeo,Swiss,10230,6,4,4,0
@@ -6473,7 +6378,6 @@
 6472,6480,514,6,15,\N,1979,3,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,ferrari,Ferrari,Italian,24015,18,2,2,1
 6473,6481,514,25,4,\N,1979,3,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,tyrrell,Tyrrell,British,24013,7,4,4,0
 6474,6482,514,32,5,\N,1979,3,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,team_lotus,Team Lotus,British,24022,17,3,3,0
-6475,6483,514,34,1,\N,1979,3,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,brabham,Brabham,British,NA,NA,NA,NA,NA
 6476,6484,514,59,0,\N,1979,3,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,wolf,Wolf,Canadian,24014,0,10,10,0
 6477,6485,514,3,0,\N,1979,3,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,williams,Williams,British,24017,0,11,11,0
 6478,6486,514,1,0,\N,1979,3,30,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,kyalami,Kyalami,Midrand,South Africa,-25.9894,28.0767,1460,mclaren,McLaren,British,24021,4,5,5,0
@@ -6565,7 +6469,6 @@
 6564,6607,522,4,1,\N,1979,11,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,renault,Renault,French,24153,20,6,6,1
 6565,6608,522,25,0,\N,1979,11,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,tyrrell,Tyrrell,British,24152,21,5,5,0
 6566,6609,522,1,0,\N,1979,11,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,mclaren,McLaren,British,24144,13,7,7,0
-6567,6610,522,34,0,\N,1979,11,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,brabham,Brabham,British,NA,NA,NA,NA,NA
 6568,6611,522,57,0,\N,1979,11,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,ensign,Ensign,British,24149,0,14,14,0
 6569,6612,522,21,0,\N,1979,11,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,arrows,Arrows,British,24147,4,8,8,0
 6570,6613,522,58,0,\N,1979,11,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,shadow,Shadow,British,24146,0,11,11,0
@@ -6937,7 +6840,6 @@
 6936,13300,554,34,4,\N,1977,12,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,brabham,Brabham,British,23321,27,5,5,0
 6937,13299,554,6,6,\N,1977,12,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,ferrari,Ferrari,Italian,23320,71,1,1,3
 6938,13298,554,58,9,\N,1977,12,70,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,shadow,Shadow,British,23314,13,7,7,1
-6939,13323,555,70,0,\N,1977,13,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,boro,Boro,Dutch,NA,NA,NA,NA,NA
 6940,13322,555,58,0,\N,1977,13,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,shadow,Shadow,British,23332,13,8,8,1
 6941,13321,555,63,0,\N,1977,13,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,surtees,Surtees,British,23334,5,10,10,0
 6942,13320,555,37,0,\N,1977,13,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,march,March,British,23333,0,14,14,0
@@ -7820,7 +7722,6 @@
 7819,11566,663,182,2,\N,1969,8,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,brabham-ford,Brabham-Ford,British,21350,30,3,3,1
 7820,11565,663,187,3,\N,1969,8,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,mclaren-ford,McLaren-Ford,British,21353,27,4,4,0
 7821,11564,663,180,6,\N,1969,8,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,lotus-ford,Lotus-Ford,British,21357,34,2,2,1
-7822,11575,664,189,0,\N,1969,9,48,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,mosport,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,332,eagle-climax,Eagle-Climax,American,NA,NA,NA,NA,NA
 7823,11574,664,6,0,\N,1969,9,48,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,mosport,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,332,ferrari,Ferrari,Italian,21360,5,5,5,0
 7824,11573,664,66,0,\N,1969,9,48,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,mosport,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,332,brm,BRM,British,21363,2,6,6,0
 7825,11571,664,196,3,\N,1969,9,48,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,mosport,Mosport International Raceway,Ontario,Canada,44.0481,-78.6756,332,matra-ford,Matra-Ford,French,21364,63,1,1,6
@@ -8233,7 +8134,6 @@
 8232,10327,729,66,9,\N,1962,1,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,brm,BRM,British,19510,9,1,1,1
 8233,10246,744,99,0,\N,1961,7,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,emeryson,Emeryson,British,19378,0,10,10,0
 8234,10228,742,99,0,\N,1961,5,58,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,20,emeryson,Emeryson,British,19357,0,8,8,0
-8235,10227,742,102,0,\N,1961,5,58,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,20,ferguson,Ferguson,British,NA,NA,NA,NA,NA
 8236,10222,742,95,2,\N,1961,5,58,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,20,porsche,Porsche,German,19353,11,3,3,0
 8237,10235,743,103,0,\N,1961,6,20,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,578,mbm,MBM,Swiss,19371,0,10,10,0
 8238,10234,743,66,0,\N,1961,6,20,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,578,brm,BRM,British,19366,1,5,5,0
@@ -8255,13 +8155,7 @@
 8254,10025,749,66,4,\N,1960,4,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,brm,BRM,British,19056,6,4,4,0
 8255,10024,749,32,6,\N,1960,4,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,team_lotus,Team Lotus,British,19057,15,2,2,1
 8256,10023,749,170,8,\N,1960,4,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,cooper-climax,Cooper-Climax,British,19058,22,1,1,2
-8257,9903,757,115,0,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,vhristensen,Christensen,American,NA,NA,NA,NA,NA
-8258,9902,757,109,0,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,phillips,Phillips,American,NA,NA,NA,NA,NA
-8259,9901,757,121,0,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,elder,Elder,American,NA,NA,NA,NA,NA
 8260,9893,756,105,0,\N,1959,1,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,maserati,Maserati,Italian,18846,0,7,7,0
-8261,9900,757,120,0,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,dunn,Dunn,American,NA,NA,NA,NA,NA
-8262,9899,757,119,0,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,moore,Moore,American,NA,NA,NA,NA,NA
-8263,9898,757,114,0,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,kuzma,Kuzma,American,NA,NA,NA,NA,NA
 8264,10010,747,101,0,\N,1960,2,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,jbw,JBW,British,19033,0,8,8,0
 8265,10009,747,167,0,\N,1960,2,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,cooper-maserati,Cooper-Maserati,British,19034,3,4,4,0
 8266,10008,747,66,2,\N,1960,2,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,brm,BRM,British,19035,2,5,5,0
@@ -8282,7 +8176,6 @@
 8281,9881,764,113,0,\N,1959,9,63,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,18,kurtis_kraft,Kurtis Kraft,American,18930,0,7,7,0
 8282,9880,764,167,0,\N,1959,9,63,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,18,cooper-maserati,Cooper-Maserati,British,18920,0,6,6,0
 8283,9879,764,95,0,\N,1959,9,63,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,18,porsche,Porsche,German,18923,0,8,8,0
-8284,9904,757,122,0,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,sutton,Sutton,American,NA,NA,NA,NA,NA
 8285,9875,763,32,0,\N,1959,8,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,team_lotus,Team Lotus,British,18910,3,4,4,0
 8286,9874,763,105,0,\N,1959,8,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,maserati,Maserati,Italian,18912,0,7,7,0
 8287,9873,763,167,0,\N,1959,8,14,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,cooper-maserati,Cooper-Maserati,British,18908,0,6,6,0
@@ -8305,7 +8198,6 @@
 8304,9920,760,32,0,\N,1959,5,58,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,aintree,Aintree,Liverpool,UK,53.4769,-2.94056,20,team_lotus,Team Lotus,British,18874,3,4,4,0
 8305,9915,759,167,0,\N,1959,4,55,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,reims,Reims-Gueux,Reims,France,49.2542,3.93083,88,cooper-maserati,Cooper-Maserati,British,18864,0,5,5,0
 8306,9914,759,105,0,\N,1959,4,55,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,reims,Reims-Gueux,Reims,France,49.2542,3.93083,88,maserati,Maserati,Italian,18868,0,6,6,0
-8307,10022,748,116,0,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,ewing,Ewing,American,NA,NA,NA,NA,NA
 8308,9912,759,170,4,\N,1959,4,55,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,reims,Reims-Gueux,Reims,France,49.2542,3.93083,88,cooper-climax,Cooper-Climax,British,18862,18,1,1,1
 8309,9910,758,117,0,\N,1959,3,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,aston_martin,Aston Martin,British,18861,0,7,7,0
 8310,9909,758,95,0,\N,1959,3,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,porsche,Porsche,German,18859,0,6,6,0
@@ -8313,9 +8205,6 @@
 8312,9907,758,32,3,\N,1959,3,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,team_lotus,Team Lotus,British,18858,3,4,4,0
 8313,9906,758,170,6,\N,1959,3,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,cooper-climax,Cooper-Climax,British,18854,14,1,1,1
 8314,9905,758,66,8,\N,1959,3,39,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,zandvoort,Circuit Park Zandvoort,Zandvoort,Netherlands,52.3888,4.54092,6,brm,BRM,British,18857,8,2,2,1
-8315,9897,757,113,0,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,kurtis_kraft,Kurtis Kraft,American,NA,NA,NA,NA,NA
-8316,9896,757,108,3,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,epperly,Epperly,American,NA,NA,NA,NA,NA
-8317,9895,757,110,5,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,lesovsky,Lesovsky,American,NA,NA,NA,NA,NA
 8318,9929,761,66,2,\N,1959,6,61,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,avus,AVUS,Berlin,Germany,52.4806,13.2514,53,brm,BRM,British,18885,16,3,3,1
 8319,9892,756,95,0,\N,1959,1,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,porsche,Porsche,German,18845,0,6,6,0
 8320,9891,756,32,0,\N,1959,1,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,team_lotus,Team Lotus,British,18844,0,5,5,0
@@ -8666,16 +8555,6 @@
 8665,10012,747,171,0,\N,1960,2,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,cooper-castellotti,Cooper-Castellotti,British,19040,0,10,10,0
 8666,10011,747,106,0,\N,1960,2,6,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monaco,Circuit de Monaco,Monte-Carlo,Monaco,43.7347,7.42056,7,scarab,Scarab,American,19041,0,9,9,0
 8667,10004,746,105,0,\N,1960,1,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,maserati,Maserati,Italian,19032,0,7,7,0
-8668,10021,748,115,0,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,vhristensen,Christensen,American,NA,NA,NA,NA,NA
-8669,10020,748,114,0,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,kuzma,Kuzma,American,NA,NA,NA,NA,NA
-8670,10019,748,113,0,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,kurtis_kraft,Kurtis Kraft,American,NA,NA,NA,NA,NA
-8671,10018,748,112,0,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,meskowski,Meskowski,American,NA,NA,NA,NA,NA
-8672,10017,748,111,1,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,trevis,Trevis,American,NA,NA,NA,NA,NA
-8673,10016,748,110,2,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,lesovsky,Lesovsky,American,NA,NA,NA,NA,NA
-8674,10015,748,109,3,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,phillips,Phillips,American,NA,NA,NA,NA,NA
-8675,10014,748,108,4,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,epperly,Epperly,American,NA,NA,NA,NA,NA
-8676,10013,748,107,8,\N,1960,3,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,watson,Watson,American,NA,NA,NA,NA,NA
-8677,9894,757,107,8,\N,1959,2,19,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,indianapolis,Indianapolis Motor Speedway,Indianapolis,USA,39.795,-86.2347,223,watson,Watson,American,NA,NA,NA,NA,NA
 8678,9911,759,6,8,\N,1959,4,55,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,reims,Reims-Gueux,Reims,France,49.2542,3.93083,88,ferrari,Ferrari,Italian,18863,16,2,2,1
 8679,9878,764,32,2,\N,1959,9,63,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,18,team_lotus,Team Lotus,British,18922,5,4,4,0
 8680,9877,764,6,4,\N,1959,9,63,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sebring,Sebring International Raceway,Florida,USA,27.4547,-81.3483,18,ferrari,Ferrari,Italian,18919,32,2,2,2
@@ -9030,7 +8909,6 @@
 9029,12568,576,73,0,\N,1975,1,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,parnelli,Parnelli,American,22463,0,12,12,0
 9030,12569,576,66,0,\N,1975,1,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,brm,BRM,British,22464,0,13,13,0
 9031,12570,576,56,0,\N,1975,1,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,fittipaldi,Fittipaldi,Brazilian,22465,0,14,14,0
-9032,12571,576,63,0,\N,1975,1,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,surtees,Surtees,British,NA,NA,NA,NA,NA
 9033,12583,577,25,0,\N,1975,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,tyrrell,Tyrrell,British,22471,2,5,5,0
 9034,12584,577,67,0,\N,1975,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,penske,Penske,American,22470,0,7,7,0
 9035,12585,577,66,0,\N,1975,2,18,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,brm,BRM,British,22480,0,15,15,0
@@ -9634,7 +9512,6 @@
 9633,14130,841,1,26,\N,2011,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,mclaren,McLaren,British,24661,26,2,2,0
 9634,14131,841,4,15,\N,2011,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,renault,Renault,French,24662,15,4,4,0
 9635,14132,841,6,18,\N,2011,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,ferrari,Ferrari,Italian,24663,18,3,3,0
-9636,14133,841,15,0,\N,2011,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,sauber,Sauber,Swiss,NA,NA,NA,NA,NA
 9637,14134,841,5,4,\N,2011,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,toro_rosso,Toro Rosso,Italian,24664,4,5,5,0
 9638,14135,841,10,3,\N,2011,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,force_india,Force India,Indian,24665,3,6,6,0
 9639,14136,841,205,0,\N,2011,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,lotus_racing,Lotus,Malaysian,24666,0,7,7,0
@@ -10305,9 +10182,6 @@
 10304,14802,899,3,0,\N,2013,19,18,NA,16:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,williams,Williams,British,25352,5,9,9,0
 10305,14803,899,206,0,\N,2013,19,18,NA,16:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,marussia,Marussia,Russian,25353,0,10,10,0
 10306,14804,899,207,0,\N,2013,19,18,NA,16:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,caterham,Caterham,Malaysian,25354,0,11,11,0
-10307,14805,790,6,9,\N,1956,7,20,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,578,ferrari,Ferrari,Italian,NA,NA,NA,NA,NA
-10308,14806,790,105,15,\N,1956,7,20,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,578,maserati,Maserati,Italian,NA,NA,NA,NA,NA
-10309,14807,790,128,0,\N,1956,7,20,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,nurburgring,Nürburgring,Nürburg,Germany,50.3356,6.9475,578,gordini,Gordini,French,NA,NA,NA,NA,NA
 10310,14808,900,131,25,\N,2014,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,mercedes,Mercedes,German,25931,25,2,2,1
 10311,14809,900,9,0,\N,2014,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,red_bull,Red Bull,Austrian,25941,0,11,11,0
 10312,14810,900,1,33,\N,2014,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,mclaren,McLaren,British,25932,33,1,1,0
@@ -10485,8 +10359,6 @@
 10484,14982,915,208,0,\N,2014,16,71,NA,11:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,2,lotus_f1,Lotus F1,British,26104,8,8,8,0
 10485,14983,915,207,0,\N,2014,16,71,NA,11:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,2,caterham,Caterham,Malaysian,26105,0,11,11,0
 10486,14984,915,206,0,\N,2014,16,71,NA,11:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,2,marussia,Marussia,Russian,26103,2,9,9,0
-10487,14985,784,6,12,\N,1956,1,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,ferrari,Ferrari,Italian,NA,NA,NA,NA,NA
-10488,14986,784,105,13,\N,1956,1,25,NA,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,galvez,Autódromo Juan y Oscar Gálvez,Buenos Aires,Argentina,-34.6943,-58.4593,8,maserati,Maserati,Italian,NA,NA,NA,NA,NA
 10489,14987,916,131,43,\N,2014,17,69,NA,20:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,161,mercedes,Mercedes,German,26107,608,1,1,14
 10490,14988,916,9,21,\N,2014,17,69,NA,20:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,161,red_bull,Red Bull,Austrian,26117,363,2,2,3
 10491,14989,916,3,22,\N,2014,17,69,NA,20:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,161,williams,Williams,British,26110,238,3,3,0
@@ -10624,7 +10496,6 @@
 10623,15120,937,5,4,\N,2015,11,13,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,toro_rosso,Toro Rosso,Italian,26256,35,7,7,0
 10624,15121,937,15,1,\N,2015,11,13,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,sauber,Sauber,Swiss,26253,23,8,8,0
 10625,15122,937,1,0,\N,2015,11,13,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,mclaren,McLaren,British,26257,17,9,9,0
-10626,15123,937,206,0,\N,2015,11,13,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,marussia,Marussia,Russian,NA,NA,NA,NA,NA
 10627,15124,937,209,0,\N,2015,11,13,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,spa,Circuit de Spa-Francorchamps,Spa,Belgium,50.4372,5.97139,401,manor,Manor Marussia,British,26259,0,10,10,0
 10628,15125,938,131,25,\N,2015,12,14,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,mercedes,Mercedes,German,26260,451,1,1,10
 10629,15126,938,6,28,\N,2015,12,14,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,monza,Autodromo Nazionale di Monza,Monza,Italy,45.6156,9.28111,162,ferrari,Ferrari,Italian,26261,270,2,2,2
@@ -10666,7 +10537,6 @@
 10665,15162,941,1,2,\N,2015,15,71,NA,11:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,2,mclaren,McLaren,British,26382,19,9,9,0
 10666,15163,941,5,1,\N,2015,15,71,NA,11:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,2,toro_rosso,Toro Rosso,Italian,26381,45,7,7,0
 10667,15164,941,209,0,\N,2015,15,71,NA,11:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,2,manor,Manor Marussia,British,26384,0,10,10,0
-10668,15165,941,206,0,\N,2015,15,71,NA,11:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,sochi,Sochi Autodrom,Sochi,Russia,43.4057,39.9578,2,marussia,Marussia,Russian,NA,NA,NA,NA,NA
 10669,15166,942,131,43,\N,2015,16,69,NA,19:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,161,mercedes,Mercedes,German,26385,574,1,1,13
 10670,15167,942,6,15,\N,2015,16,69,NA,19:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,161,ferrari,Ferrari,Italian,26386,374,2,2,3
 10671,15168,942,5,18,\N,2015,16,69,NA,19:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,americas,Circuit of the Americas,Austin,USA,30.1328,-97.6411,161,toro_rosso,Toro Rosso,Italian,26391,63,7,7,0
@@ -10685,7 +10555,6 @@
 10684,15181,943,208,1,\N,2015,17,32,NA,19:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,lotus_f1,Lotus F1,British,26403,71,6,6,0
 10685,15182,943,15,0,\N,2015,17,32,NA,19:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,sauber,Sauber,Swiss,26398,36,8,8,0
 10686,15183,943,1,0,\N,2015,17,32,NA,19:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,mclaren,McLaren,British,26402,27,9,9,0
-10687,15184,943,206,0,\N,2015,17,32,NA,19:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,marussia,Marussia,Russian,NA,NA,NA,NA,NA
 10688,15185,943,6,0,\N,2015,17,32,NA,19:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,rodriguez,Autódromo Hermanos Rodríguez,Mexico City,Mexico,19.4042,-99.0907,2227,ferrari,Ferrari,Italian,26396,374,2,2,3
 10689,15186,944,131,43,\N,2015,18,18,NA,16:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,mercedes,Mercedes,German,26405,660,1,1,15
 10690,15187,944,6,27,\N,2015,18,18,NA,16:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,interlagos,Autódromo José Carlos Pace,São Paulo,Brazil,-23.7036,-46.6997,785,ferrari,Ferrari,Italian,26406,401,2,2,3
@@ -10707,7 +10576,6 @@
 10706,15203,945,5,0,\N,2015,19,24,NA,13:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,3,toro_rosso,Toro Rosso,Italian,26432,67,7,7,0
 10707,15204,945,1,0,\N,2015,19,24,NA,13:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,3,mclaren,McLaren,British,26433,27,9,9,0
 10708,15205,945,15,0,\N,2015,19,24,NA,13:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,3,sauber,Sauber,Swiss,26429,36,8,8,0
-10709,15206,945,206,0,\N,2015,19,24,NA,13:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,3,marussia,Marussia,Russian,NA,NA,NA,NA,NA
 10710,15207,945,209,0,\N,2015,19,24,NA,13:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,yas_marina,Yas Marina Circuit,Abu Dhabi,UAE,24.4672,54.6031,3,manor,Manor Marussia,British,26435,0,10,10,0
 10711,15208,948,131,43,\N,2016,1,1,NA,5:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,mercedes,Mercedes,German,26557,43,1,1,1
 10712,15209,948,6,15,\N,2016,1,1,NA,5:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,ferrari,Ferrari,Italian,26558,15,2,2,0
@@ -11020,7 +10888,6 @@
 11019,15516,976,1,2,\N,2017,8,73,NA,13:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,baku,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,-7,mclaren,McLaren,British,26811,2,10,10,0
 11020,15517,976,15,1,\N,2017,8,73,NA,13:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,baku,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,-7,sauber,Sauber,Swiss,26810,5,9,9,0
 11021,15518,976,4,0,\N,2017,8,73,NA,13:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,baku,Baku City Circuit,Baku,Azerbaijan,40.3725,49.8533,-7,renault,Renault,French,26809,18,8,8,0
-11022,15519,841,164,0,\N,2011,1,1,NA,6:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,albert_park,Albert Park Grand Prix Circuit,Melbourne,Australia,-37.8497,144.968,10,hrt,HRT,Spanish,NA,NA,NA,NA,NA
 11023,15520,977,131,37,\N,2017,9,70,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,mercedes,Mercedes,German,26814,287,1,1,5
 11024,15521,977,6,28,\N,2017,9,70,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,ferrari,Ferrari,Italian,26813,254,2,2,3
 11025,15522,977,9,15,\N,2017,9,70,NA,12:00:00,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N,red_bull_ring,Red Bull Ring,Spielberg,Austria,47.2197,14.7647,678,red_bull,Red Bull,Austrian,26815,152,3,3,1
