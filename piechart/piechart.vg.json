@@ -4,17 +4,19 @@
     "width": 800,
     "height": 600,
     "title": "Constructor ",
-    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_constructor.csv"
+    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_their_constructor.csv"
     },
     "mark": {"type": "arc", "tooltip":true},
     "transform": [
         {
             "aggregate": [{"op":"count", "as": "number_of_player"}],
-            "groupby": ["constructorRef"]
-        }
+            "groupby": ["name_constructor"]
+        },
+        { "filter":{"field": "number_of_player","gt":1}
+    }
     ],
     "encoding": {
-      "theta": {"field": "number_of_player", "type": "quantitative","title":"Player"},
-      "color": {"field": "constructorRef", "type": "nominal", "title":"Constructor"}
-    }
+        "theta": {"field": "number_of_player", "type": "quantitative","title":"Player"},
+        "color": {"field": "name_constructor", "type": "nominal", "title":"Constructor"}
+      }
   }

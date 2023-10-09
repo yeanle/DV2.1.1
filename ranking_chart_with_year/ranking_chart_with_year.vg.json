@@ -1,33 +1,64 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
-    "height": 600,
-    "title": {
-      "text": "Ranking of formula one from 1950 -20",
-      "frame": "bounds"
+    "data": {
+      "url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_result2.csv"
     },
-    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_result2.csv"
-    },
-    "transform": [
-        {"filter": "datum.position > 5"},
-    {
-      "sort": [
-        {"field": "datum.position", "order": "descending"},
-        {"field": "datum.year", "order": "descending"}
-      ],
-      "window": [{
-        "op": "rank",
-        "as": "rank"
-      }],
-      "groupby": ["datum.year"]
-    }],
-    "mark": {"type": "line", "orient": "vertical"},
-    "encoding": {
-      "x": {"field": "datum.year", "type": "ordinal"},
-      "y": {"field": "datum.position", "type": "ordinal"},
-      "color": {
-        "field": "datum.driverRef", "type": "nominal"
-       
+    "vconcat": [
+      {
+        "width": 480,
+        "title": {
+          "text": "F1 Ranking form 1950 to 2017",
+          "frame": "bounds"
+        },
+        "transform": [
+          {
+            "sort": [
+              {"field": "position", "order": "descending"}
+            ],
+            "window": [{"op": "rank", "as": "rank"}],
+            "groupby": ["year"]
+          },
+          {"filter": "datum.position < 5"},
+          {"filter": "datum.year > 2000"}
+        ],
+        "mark": {"type": "line", "orient": "vertical"},
+        "encoding": {
+          "x": {"field": "year", "type": "ordinal"},
+          "y": {"field": "position", "type": "ordinal"},
+          "color": {
+            "field": "surename",
+            "type": "nominal",
+            "scale": {
+              "domain": ["Hamilton", "Mexico", "South Korea", "Sweden"],
+              "range": ["black", "#127153", "#C91A3C", "#0C71AB"]
+            }
+          }
+        }
+      },
+      {
+        "width": 480,
+        "height": 60,
+        "title":"hello",
+        "mark": {"type": "area"},
+        "params": [
+          {
+            "name": "brush",
+            "select": {"type": "interval", "encodings": ["x"]}
+          }
+        ],
+        "encoding": {
+          "x": {"field": "year", "type": "ordinal"},
+          "y": {"field": "position", "type": "quantitative"},
+          "color": {
+            "field": "surename",
+            "type": "nominal",
+            "scale": {
+              "domain": ["Germany", "Mexico", "South Korea", "Sweden"],
+              "range": ["black", "#127153", "#C91A3C", "#0C71AB"]
+            }
+          }
+        }
       }
-    }
+    ]
   }
+  
