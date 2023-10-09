@@ -12,6 +12,7 @@
     "encoding": {
       "y": {"field": "Country", "type": "nominal"},
       "x": {"field": "Number_of_wins","type": "quantitative","sort": "ascending"},
+      "color":{"field": "Country","type":"nominal"},
       "tooltip": [
         {"field": "Country", "type": "nominal"},
         {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},

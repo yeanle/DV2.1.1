@@ -4,20 +4,17 @@
     "width": 800,
     "height": 600,
     "title": "Constructor ",
-    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_constructor.csv"},
-    "layer": [{
-      "mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}
-    },{
-      "mark": {"type": "text", "radiusOffset": 10},
-      "transform": [{"filter": "datum.wins >=1"}],
-      "encoding": {
-        "text": {"field": "datum.wins", "type": "quantitative"}
-      }
-    }],
+    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_constructor.csv"
+    },
+    "mark": {"type": "arc", "tooltip":true},
+    "transform": [
+        {
+            "aggregate": [{"op":"count", "as": "number_of_player"}],
+            "groupby": ["constructorRef"]
+        }
+    ],
     "encoding": {
-      "theta": {"field": "datum.wins", "type": "quantitative", "stack": true},
-      "radius": {"field": "datum.wins", "scale": {"type": "sqrt", "zero": true, "rangeMin": 20}},
-      "color": {"field": "datum.wins", "type": "nominal", "legend": null}
+      "theta": {"field": "number_of_player", "type": "quantitative","title":"Player"},
+      "color": {"field": "constructorRef", "type": "nominal", "title":"Constructor"}
     }
   }
-  
