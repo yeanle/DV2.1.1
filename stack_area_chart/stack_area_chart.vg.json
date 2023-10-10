@@ -1,0 +1,47 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Constructor_results(combine)1.1.1.csv"},
+    "vconcat": [{
+      "width": 480,
+      "mark": "area",
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "nominal",
+          "scale": {"domain": {"param": "brush"}}
+        },
+        "y": {"aggregate": "sum", "field":"points"},
+        "color": {"field": "name_constructor", "type": "nominal", "title": "Constructor"},
+        "tooltip":[
+            {"field": "name_constructor", "type":"nominal","title":"Name of Constructor"},
+            {"field": "year", "type":"nominal","title":"Year"},
+            {"field": "nationality", "type":"nominal","title":"Nationality"}
+        ]
+    },
+      "transform":[{"filter":"datum.year >1965 && datum.year <2017" },
+                    {"filter":{"field": "points","gt":10}}]
+      
+    }, {
+      "width": 480,
+      "height": 60,
+      "mark": "area",
+      "params": [{
+        "name": "brush",
+        "select": {"type": "interval", "encodings": ["x"]}
+      }],
+      "encoding": {
+        "x": {
+          "field": "year",
+          "type": "nominal"
+        },
+        "y": {
+          "field": "points",
+          "type": "quantitative",
+          "axis": {"tickCount": 3, "grid": false}
+        }
+      },
+      "transform":[{"filter":"datum.year >1965 && datum.year <2017" },
+                    {"filter":{"field": "points","gt":10}}]
+    }]
+  }
+  
