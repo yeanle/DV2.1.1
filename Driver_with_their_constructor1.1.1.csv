@@ -1,0 +1,49 @@
+,name_constructor,driverRef,count,
+1,BRM,hill,10,http://en.wikipedia.org/wiki/BRM
+2,Benetton,michael_schumacher,19,http://en.wikipedia.org/wiki/Benetton_Formula
+3,Brabham,piquet,13,http://en.wikipedia.org/wiki/Brabham
+4,Brabham-Repco,jack_brabham,6,http://en.wikipedia.org/wiki/Brabham
+5,Brawn,button,6,http://en.wikipedia.org/wiki/Brawn_GP
+6,Cooper-Climax,jack_brabham,7,http://en.wikipedia.org/wiki/Cooper_Car_Company
+7,Ferrari,alonso,11,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+8,Ferrari,barrichello,9,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+9,Ferrari,gilles_villeneuve,6,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+10,Ferrari,ickx,6,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+11,Ferrari,lauda,15,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+12,Ferrari,massa,11,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+13,Ferrari,michael_schumacher,72,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+14,Ferrari,raikkonen,10,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+15,Ferrari,vettel,14,http://en.wikipedia.org/wiki/Scuderia_Ferrari
+16,Ligier,laffite,6,http://en.wikipedia.org/wiki/Ligier
+17,Lotus-Climax,clark,19,http://en.wikipedia.org/wiki/Team_Lotus
+18,Matra-Ford,stewart,9,http://en.wikipedia.org/wiki/Matra
+19,McLaren,button,8,http://en.wikipedia.org/wiki/McLaren
+20,McLaren,coulthard,12,http://en.wikipedia.org/wiki/McLaren
+21,McLaren,hakkinen,20,http://en.wikipedia.org/wiki/McLaren
+22,McLaren,hamilton,21,http://en.wikipedia.org/wiki/McLaren
+23,McLaren,hunt,9,http://en.wikipedia.org/wiki/McLaren
+24,McLaren,lauda,8,http://en.wikipedia.org/wiki/McLaren
+25,McLaren,prost,30,http://en.wikipedia.org/wiki/McLaren
+26,McLaren,raikkonen,9,http://en.wikipedia.org/wiki/McLaren
+27,McLaren,senna,35,http://en.wikipedia.org/wiki/McLaren
+28,Mercedes,bottas,10,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+29,Mercedes,hamilton,82,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+30,Mercedes,rosberg,23,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One
+31,Red Bull,max_verstappen,45,http://en.wikipedia.org/wiki/Red_Bull_Racing
+32,Red Bull,ricciardo,7,http://en.wikipedia.org/wiki/Red_Bull_Racing
+33,Red Bull,vettel,38,http://en.wikipedia.org/wiki/Red_Bull_Racing
+34,Red Bull,webber,9,http://en.wikipedia.org/wiki/Red_Bull_Racing
+35,Renault,alonso,17,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+36,Renault,prost,9,http://en.wikipedia.org/wiki/Renault_in_Formula_One
+37,Team Lotus,emerson_fittipaldi,9,http://en.wikipedia.org/wiki/Team_Lotus
+38,Team Lotus,mario_andretti,11,http://en.wikipedia.org/wiki/Team_Lotus
+39,Team Lotus,peterson,9,http://en.wikipedia.org/wiki/Team_Lotus
+40,Team Lotus,senna,6,http://en.wikipedia.org/wiki/Team_Lotus
+41,Tyrrell,stewart,15,http://en.wikipedia.org/wiki/Tyrrell_Racing
+42,Williams,damon_hill,21,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+43,Williams,jones,11,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+44,Williams,mansell,28,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+45,Williams,piquet,7,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+46,Williams,prost,7,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+47,Williams,ralf_schumacher,6,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering
+48,Williams,villeneuve,11,http://en.wikipedia.org/wiki/Williams_Grand_Prix_Engineering

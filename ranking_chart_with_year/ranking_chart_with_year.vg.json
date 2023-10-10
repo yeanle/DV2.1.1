@@ -5,9 +5,9 @@
     },
     "vconcat": [
       {
-        "width": 480,
+        "width": 1200,
         "title": {
-          "text": "F1 Ranking form 1950 to 2017",
+          "text": "F1 constructor Ranking form 2000 to 2023",
           "frame": "bounds"
         },
         "transform": [
@@ -19,7 +19,7 @@
             "groupby": ["year"]
           },
         
-          {"filter":"datum.position <= 3"},
+          {"filter":"datum.position <= 5"},
           {"filter":"datum.year >2000"},
           {"filter": {"field":"name_constructor","oneOf":["Ferrari","McLaren", "Williams", "Brabham", "BRM"]}}
           
@@ -36,27 +36,6 @@
                 "range": ["#C91A3C", "#0C71AB", "#127153", "#333333", "#FFD700"]
               }
             
-          }
-        }
-      },
-      {
-        "width": 480,
-        "height": 60,
-        "title":"hello",
-        "mark": {"type": "area"},
-        "params": [
-          {
-            "name": "brush",
-            "select": {"type": "interval", "encodings": ["x"]}
-          }
-        ],
-        "encoding": {
-          "x": {"field": "year", "type": "ordinal"},
-          "y": {"field": "position", "type": "quantitative"},
-          "color": {
-            "field": "name_constructor",
-            "type": "nominal"
-           
           }
         }
       }
