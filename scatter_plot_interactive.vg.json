@@ -44,7 +44,7 @@
     ],
     "transform": [
       {"filter": "datum.Count_of_nationality > 0"},
-      {"filter": "datum.Number_of_wins >= 0"},
+      {"filter": "datum.Number_of_wins > 0"},
       
       {
         "filter": "Continent_selection == null || datum.Continent == Continent_selection"

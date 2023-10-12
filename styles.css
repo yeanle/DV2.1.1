@@ -1,26 +1,30 @@
 body *{
     font-family: 'Open Sans', sans-serif;
+    margin-bottom: 5px;
   }
   
   h1 {
     font-weight: 900;
+    background-color: rgba(255, 255, 255, 0.853);
+  
   }
 
   h3 {
     text-align: center;
   }
- 
+  
   
   body {
-    background-color: lightgray;
+    background-color: lightblue;
   }
   
   .page {
     width: 850px;
-    background-color: white;
+    background-color:whitesmoke;
     margin: auto;
     padding: 50px;
     padding-top: 35px;
+    border: 2xp #b9b8b8;
   }
   
   .vis-container {
@@ -34,16 +38,32 @@ body *{
   
   .description-right {
     padding-left: 20px;
+    
   }
   
   .description-left {
     padding-right: 20px;
   }
+  .description-middle{
+    text-align: center;
+    margin: auto;
+  }
   
   .pure-g {
     margin-bottom: 40px;
+    height: auto;
+    border: 2px double black;
+    width: 100%;
   }
   
   .small-font {
     font-size: 14px;
   }
+  .cont{
+    height: 100px;
+    border: 2px double blue;
+    width: 100%;
+    margin: bottom 10px;
+    padding: 10px;
+  }
+

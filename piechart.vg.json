@@ -1,8 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "description": "A simple radial chart with embedded data.",
-    "width": 800,
-    "height": 600,
     "title": "Constructor ",
     "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Driver_with_their_constructor1.1.1.csv"
     },
@@ -21,22 +19,7 @@
                 "theta": {"field": "number_of_player", "type": "quantitative","title":"Player"},
                 "color": {"field": "name_constructor", "type": "nominal", "title":"Constructor"}
                 }
-        },
-        {"mark":{
-            "type": "image","width": 100, "height": 100},
-            "encoding": {
-                "url":{
-                    "condition":[
-                        {"test": {"field": "name_constructor", "equal": "Ferrari"}, "value": "https://media.formula1.com/image/upload/content/dam/fom-website/manual/Misc/2022manual/WinterFebruary/Ferrari/GROUP_WHITE_SPONSOR_JPG_00003.jpg.transform/9col/image.jpg"
-                    },
-                    {"test": {"field": "name_constructor", "equal": "Williams"}, "value": "https://example.com/williams_image.jpg"},
-                    {"test": {"field": "name_constructor", "equal": "BMW"}, "value": "https://example.com/bmw_image.jpg"}
-                    ],
-                    "value": "" 
-                    
-
-                }
-            }}
+        }
         
         ]
     }

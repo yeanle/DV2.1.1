@@ -2,7 +2,7 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/Constructor_results(combine)1.1.1.csv"},
     "vconcat": [{
-      "width": 480,
+      "width":675,
       "mark": "area",
       "encoding": {
         "x": {
@@ -22,8 +22,8 @@
                     {"filter":{"field": "points","gt":10}}]
       
     }, {
-      "width": 480,
-      "height": 60,
+      "width": 650,
+      "height": 80,
       "mark": "area",
       "params": [{
         "name": "brush",
