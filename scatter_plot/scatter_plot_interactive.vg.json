@@ -60,12 +60,14 @@
         "field": "Count_of_nationality",
         "type": "quantitative",
         "title":"Number of player",
-        "axis": {"tickCount": 4}
+        "axis": {"tickCount": 4},
+        "scale":{"type": "linear"}
       },
       "y": {
         "field": "Number_of_wins",
         "type": "quantitative",
-        "axis": { "tickCount": 4}
+        "axis": { "tickCount": 4},
+        "scale": {"zero":false}
       }
     },
     "layer": [

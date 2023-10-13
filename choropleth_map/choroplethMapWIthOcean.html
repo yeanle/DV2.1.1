@@ -6,7 +6,7 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.20.8"></script>
 </head>
 <body>
-  <div id="vis"/>
+  <div id="vis">
   <script>
     const spec = {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
@@ -34,7 +34,7 @@
         "url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/oceans.topojson",
         "format": {"type": "topojson", "feature": "oceans"}
       },
-      "mark": {"type": "geoshape", "fill": "skyblue"}
+      "mark": {"type": "geoshape", "fill": "blue"}
     },
     {
       "data": {
