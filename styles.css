@@ -1,8 +1,29 @@
 body *{
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 5px;
+    
+   
   }
-  
+  .parallax{
+    background-image: url(https://images5.alphacoders.com/121/1214059.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .first_parallax{
+    background-image: url(https://www.hdcarwallpapers.com/thumbs/2023/ferrari_sf_23_f1_2023_4k-t2.jpg);
+    height: 500px;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 250px;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+  }
   
   h1 {
     font-weight: 120;
@@ -13,24 +34,15 @@ body *{
     text-align: center;
     font-weight: 600;
     font-size: 28px;
-    color: rgb(19, 19, 19);
+    color: rgb(240, 236, 236);
   }
-  t1{
-    text-align: left;
-    font-weight: 700;
-    font-size: 32px;
-    color: rgb(20, 20, 20);
-    padding-bottom: 20px;
-    background-color: aquamarine;
-  }
-  
-  
+
   body {
     background-color: rgba(230, 227, 225, 0.981);
   }
   
   .page {
-    width: 850px;
+    width: 800px;
     background-color:rgb(252, 233, 205);
     margin: auto;
     padding: 50px;
@@ -45,6 +57,7 @@ body *{
   .description-right {
     padding-left: 20px;
     font-size: 20px;
+    color: rgb(226, 231, 235);
 
     
   }
@@ -52,10 +65,12 @@ body *{
   .description-left {
     padding-right: 20px;
     font-size: 20px;
+    color: rgb(226, 231, 235);
   }
   .description-middle{
     text-align: center;
     font-size: 20px;
+    color: rgb(226, 231, 235);
     
   }
   
@@ -66,7 +81,7 @@ body *{
   }
   .pure-u1{
     padding: 20px;
-    background-color: #fdac4f; /* Light gray background for descriptions */
+    background-color: #121212; /* Light gray background for descriptions */
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(73, 62, 39, 0.1);
   }

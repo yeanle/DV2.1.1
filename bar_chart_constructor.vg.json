@@ -1,7 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
-    "height": 600,
     "title": "Number of wins in each player",
     "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"},
     "mark": {"type": "bar", "binSpacing": 0},

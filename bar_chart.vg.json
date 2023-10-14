@@ -1,53 +1,73 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width": 800,
-    "height": 600,
-    "title": "Number of wins in each country",
-    "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"},
-    "params":[
-      {
-        "name": "Continent_selection",
-        "bind": {
-          "input": "select",
-          "options": [
-            null,
-            "North America",
-            "South America",
-            "Europe",
-            "Africa",
-            "Asia",
-            "Oceania"
-          ],
-          "labels": [
-            "Show All",
-            "North America",
-            "South America",
-            "Europe",
-            "Africa",
-            "Asia",
-            "Oceania"
-          ],
-          "name": "Continent Selection: "
-        }
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Number of wins in each country and each constructor",
+  "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"},
+  
+  "params":[
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "labels": [
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "name": "Continent Selection: "
       }
-    ],
-    "mark": {"type": "bar", "binSpacing": 0},
-    "transform": [
-      {"filter": "datum.Count_of_nationality > 0"},
-      {"filter": "datum.Number_of_wins >= 1"},
-      {
-        "filter": "Continent_selection == null || datum.Continent == Continent_selection"
-      }
+    }
+  ],
+  "hconcat":[{
+    "width":270,
+  "mark": {"type": "bar", "binSpacing": 0},
+  "transform": [
+    {"filter": "datum.Count_of_nationality > 0"},
+    {"filter": "datum.Number_of_wins >= 1"},
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
 
-    ],
-    "encoding": {
-      "y": {"field": "Country", "type": "nominal"},
-      "x": {"field": "Number_of_wins","type": "quantitative","sort": "ascending","title":"Number of Wins"},
-      "color":{"field": "Country","type":"nominal"},
-      "tooltip": [
-        {"field": "Country", "type": "nominal"},
-        {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
-        {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"  }
-    ]
-  }
+  ],
+  "encoding": {
+    "y": {"field": "Country", "type": "nominal"},
+    "x": {"field": "Number_of_wins","type": "quantitative","sort": "ascending","title":"Number of Wins"},
+    "color":{"field": "Country","type":"nominal"},
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
+      {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"  }
+  ]
+}
+},
+{"mark": {"type": "bar", "binSpacing": 0},
+"width":270,
+"transform": [
+{"filter": "datum.Count_of_nationality > 0"},
+{"filter": "datum.Number_of_wins >= 1"}
+],
+"encoding": {
+"y": {"field": "Country", "type": "nominal"},
+"x": {"field": "Number_of_teams","type": "quantitative","sort": "ascending","title":"Number of Team"},
+"color":{"field": "Country","type":"nominal"},
+"tooltip": [
+  {"field": "Country", "type": "nominal"},
+  {"field": "Count_of_nationality", "type": "quantitative", "format": ",","title": "Number of Player"},
+  {"field": "Number_of_wins", "type": "quantitative", "format": ",", "title": "Number of Wins"},
+  {"field":"Number_of_teams","type":"quantitative","format":",","title":"Number of Team"}
+]
+}}
+  ]
 }
