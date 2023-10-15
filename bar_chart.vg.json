@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Number of wins in each country and each constructor",
+  "title": "Number of wins and team in each country",
   "data": {"url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"},
   
   "params":[

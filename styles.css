@@ -13,7 +13,7 @@ body *{
     background-size: cover;
   }
   .first_parallax{
-    background-image: url(https://www.hdcarwallpapers.com/thumbs/2023/ferrari_sf_23_f1_2023_4k-t2.jpg);
+    background-image: url(https://www.funfactsabout.com/wp-content/uploads/2022/08/f1-facts.jpg);
     height: 500px;
     background-attachment: fixed;
     background-position: top;
@@ -80,6 +80,7 @@ body *{
   
   }
   .pure-u1{
+    border-radius: 75px 75px;
     padding: 20px;
     background-color: #121212; /* Light gray background for descriptions */
     border-radius: 10px;

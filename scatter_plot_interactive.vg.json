@@ -1,6 +1,8 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": "F1 Player in each country",
+    "width" :400,
+    
     "data": {
       "url": "https://raw.githubusercontent.com/yeanle/DV2.1.1/main/count_of_driver_F1.csv"
     },
@@ -39,6 +41,7 @@
             "Oceania"
           ],
           "name": "Continent Selection: "
+          
         }
       }
     ],
@@ -63,7 +66,8 @@
       "y": {
         "field": "Number_of_wins",
         "type": "quantitative",
-        "axis": { "tickCount": 4}
+        "axis": { "tickCount": 4},
+        "title":"Number of  Wins"
       }
     },
     "layer": [
@@ -72,6 +76,7 @@
         "encoding": {
           "size": {
             "field": "Number_of_teams",
+            "title":"Number of teams",
             "type": "quantitative",
             "scale": {
               "type": "threshold",
